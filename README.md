@@ -14,3 +14,4 @@
 - Twilio
 ## Future Updates
 - Implementing rating and feedback system for a parking slot.
+- Users can rent a parked vehicle.
