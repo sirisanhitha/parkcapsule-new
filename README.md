@@ -8,3 +8,4 @@
 ## Tech Stack
 - Nextjs
 - Express
+- Razorpay
