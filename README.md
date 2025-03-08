@@ -9,3 +9,6 @@
 - Nextjs
 - Express
 - Razorpay
+- Google API
+- Geocode API
+- Twilio
