@@ -29,3 +29,4 @@ npm run serve
 ```
 ##Website vercel
 - [ParkCapsule](park-capsule-new.vercel.app/)
+![Screenshot 2025-02-18 094342](https://github.com/user-attachments/assets/9faddf8c-3680-4955-8f95-6026075511f2)
