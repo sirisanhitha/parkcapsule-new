@@ -20,3 +20,4 @@
 Install the dependencies and devDependencies include the env file and start the server.
 ```sh
 cd frontend
+yarn add
